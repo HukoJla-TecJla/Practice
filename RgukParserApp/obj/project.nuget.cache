@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sj3kATHzOsM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\123\\Documents\\temp\\RgukParserApp\\RgukParserApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}

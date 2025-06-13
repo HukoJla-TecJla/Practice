@@ -1,0 +1,17 @@
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\RgukParserApp.exe
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\RgukParserApp.deps.json
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\RgukParserApp.runtimeconfig.json
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\RgukParserApp.dll
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\RgukParserApp.pdb
+C:\Users\123\Documents\temp\RgukParserApp\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.csproj.AssemblyReference.cache
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.AssemblyInfoInputs.cache
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.AssemblyInfo.cs
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukPars.CF08F7AA.Up2Date
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.dll
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\refint\RgukParserApp.dll
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.pdb
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\RgukParserApp.genruntimeconfig.cache
+C:\Users\123\Documents\temp\RgukParserApp\obj\Debug\net9.0\ref\RgukParserApp.dll
