@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "mZPUW8J/IqlsVDKy7GlblY75BV2mN5GiulTmEl5ZjT0=",
+  "Source": "RgukDirectionsApi",
+  "BasePath": "_content/RgukDirectionsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RgukDirectionsApi\\wwwroot",
+      "Source": "RgukDirectionsApi",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\9p4ql9vy3f-ny3w0utjpd.gz",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "index#[.{fingerprint=ny3w0utjpd}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s3s66qpn53",
+      "Integrity": "yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\jhv5ge5h5p-3jg7xk8la3.gz",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "styles#[.{fingerprint=3jg7xk8la3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oi8mr7tgoy",
+      "Integrity": "YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\mvs4f2t2tr-2swoqkpyvo.gz",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "script#[.{fingerprint=2swoqkpyvo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "puan9b7dvh",
+      "Integrity": "sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\index.html",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ny3w0utjpd",
+      "Integrity": "D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\script.js",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2swoqkpyvo",
+      "Integrity": "DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\styles.css",
+      "SourceId": "RgukDirectionsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\",
+      "BasePath": "_content/RgukDirectionsApi",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3jg7xk8la3",
+      "Integrity": "kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\9p4ql9vy3f-ny3w0utjpd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001027749229"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\9p4ql9vy3f-ny3w0utjpd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg="
+        }
+      ]
+    },
+    {
+      "Route": "index.ny3w0utjpd.html",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\9p4ql9vy3f-ny3w0utjpd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001027749229"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny3w0utjpd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4="
+        }
+      ]
+    },
+    {
+      "Route": "index.ny3w0utjpd.html",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny3w0utjpd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6QW2W3RQ1BtN5tq9utAX6waASbK9puWHmspNk2RbB4="
+        }
+      ]
+    },
+    {
+      "Route": "index.ny3w0utjpd.html.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\9p4ql9vy3f-ny3w0utjpd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny3w0utjpd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJHEgiYudY0+BIVmcrFqPa6KpoRjYKJklXqLyDJNJeg="
+        }
+      ]
+    },
+    {
+      "Route": "script.2swoqkpyvo.js",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\mvs4f2t2tr-2swoqkpyvo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000964320154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2swoqkpyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.2swoqkpyvo.js",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2swoqkpyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.2swoqkpyvo.js.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\mvs4f2t2tr-2swoqkpyvo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2swoqkpyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\mvs4f2t2tr-2swoqkpyvo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000964320154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgpTbNBbzbqodIdSivJjaGAlYMjXC3oGLZr/oBzSvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\mvs4f2t2tr-2swoqkpyvo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfvBdeeIezU3evy8ZjF2k6qYrWCmhIC2yd8x6sk+SWY="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3jg7xk8la3.css",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\jhv5ge5h5p-3jg7xk8la3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3jg7xk8la3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3jg7xk8la3.css",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3jg7xk8la3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3jg7xk8la3.css.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\jhv5ge5h5p-3jg7xk8la3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3jg7xk8la3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\jhv5ge5h5p-3jg7xk8la3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kV9uOuRNTO7GCLys9xh6B5bOZTU2n69Bk9CZtEWyjtg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\123\\RgukDirectionsApi\\obj\\Debug\\net9.0\\compressed\\jhv5ge5h5p-3jg7xk8la3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 01:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOQ48T9db8PQsNtKrf4OQ/zsOJ/sJqWAy6lWnFrEU8U="
+        }
+      ]
+    }
+  ]
+}

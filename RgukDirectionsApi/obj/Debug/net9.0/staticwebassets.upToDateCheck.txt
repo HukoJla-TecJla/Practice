@@ -1,0 +1,6 @@
+C:\Users\123\RgukDirectionsApi\wwwroot\index.html
+C:\Users\123\RgukDirectionsApi\wwwroot\styles.css
+C:\Users\123\RgukDirectionsApi\wwwroot\script.js
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css

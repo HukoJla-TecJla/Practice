@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Подбор направления РГУК</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Подбор направления обучения в РГУК</h1>
+        <form id="filterForm">
+            <label>Выберите предметы ЕГЭ и укажите баллы (опционально):</label><br>
+            <div id="subjects-checkboxes">
+                <div>
+                    <label><input type="checkbox" value="Математика профиль"> Математика профиль</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Математика профиль">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Математика база"> Математика база</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Математика база">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Информатика"> Информатика</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Информатика">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Физика"> Физика</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Физика">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Химия"> Химия</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Химия">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Биология"> Биология</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Биология">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Обществознание"> Обществознание</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Обществознание">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="История"> История</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="История">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="География"> География</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="География">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Литература"> Литература</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Литература">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Иностранный язык"> Иностранный язык</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Иностранный язык">
+                </div>
+                <div>
+                    <label><input type="checkbox" value="Русский язык"> Русский язык</label>
+                    <input type="number" min="0" max="100" placeholder="Балл" class="score-input" data-subject="Русский язык">
+                </div>
+            </div>
+            <br>
+
+            <label for="area">Желаемая область (опционально):</label><br>
+            <input type="text" id="area" placeholder="Например, информатика"><br><br>
+
+            <label for="form">Форма обучения (опционально):</label><br>
+            <select id="form">
+                <option value="">Любая</option>
+                <option value="очная">Очная</option>
+                <option value="заочная">Заочная</option>
+            </select><br><br>
+
+            <button type="submit">Подобрать направление</button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
